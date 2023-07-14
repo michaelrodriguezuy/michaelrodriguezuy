@@ -1,4 +1,7 @@
-### Hi there 👋
+### Un poco sobre mí 👋
+
+Hola, mi nombre es Michael, soy desarrollador de software desde hace varios años, de la vieja escuela, en pleno proceso de renovación, me encuentro especializándome en desarrollo frontend y backend. 
+También soy técnico en telecomunicaciones, actualmente es en lo que me desempeño la mayor parte del tiempo, estoy en pleno proceso para que esta situacion cambie.
 
 <!--
 **michaelrodriguezuy/michaelrodriguezuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
