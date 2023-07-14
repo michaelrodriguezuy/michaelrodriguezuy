@@ -1,5 +1,5 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-   <p dir="auto"><img src="https://camo.githubusercontent.com/a8a97bf1b30f19fe659ea343ef9f9bdcf40976b8142847a603b279782a922cc3/68747470733a2f2f6564756172646f66696572726f2e70726f2f6173736574732f7468756d622f6769746875622d636f7665722e6a7067" alt="Header" title="Header" data-canonical-src="http://olimarteam.uy/img/fondo.jpg" style="max-width: 100%;"></p>
+   <p dir="auto"> <a href="#" rel="nofollow"> <img src="https://camo.githubusercontent.com/a8a97bf1b30f19fe659ea343ef9f9bdcf40976b8142847a603b279782a922cc3/68747470733a2f2f6564756172646f66696572726f2e70726f2f6173736574732f7468756d622f6769746875622d636f7665722e6a7067" alt="Header" title="Header" data-canonical-src="http://olimarteam.uy/img/fondo.jpg" style="max-width: 100%;"> </a> </p>
    
 <p dir="auto">
 
