@@ -1,5 +1,5 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-   <p dir="auto"> <a href="#" rel="nofollow"> <img src="http://olimarteam.uy/img/fondo_4.png" alt="Header" title="Header" data-canonical-src="http://olimarteam.uy/img/fondo.jpg" style="max-width: 100%;"> </a> </p>
+   <p dir="auto"> <a href="#" rel="nofollow"> <img src="http://olimarteam.uy/img/fondo_4.png" alt="olimarteam" title="olimarteam" data-canonical-src="http://olimarteam.uy/img/fondo.jpg" style="max-width: 100%;"> </a> </p>
    
 <p dir="auto">
 
