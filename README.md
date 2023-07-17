@@ -23,6 +23,6 @@ También soy técnico en telecomunicaciones, actualmente es en lo que me desempe
 </p>
 
 <p>   
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=michaelrodriguezuy"><img align="center"  alt="michaelrodriguezuy"  style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="[https://github-readme-streak-stats.herokuapp.com/?user=michaelrodriguezuy](https://github-readme-streak-stats.herokuapp.com/?user=michaelrodriguezuy)"><img align="center"  alt="michaelrodriguezuy"  style="max-width: 100%;"></a>
 </p>
 
