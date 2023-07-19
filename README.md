@@ -13,7 +13,7 @@
 
 ### Hola 👋
 
-Soy desarrollador de software desde hace varios años, de la vieja escuela, en pleno proceso de renovación, me encuentro especializándome en desarrollo frontend y backend. 
+Soy desarrollador de software desde hace mas de 10 años, de la vieja escuela, en pleno proceso de renovación, me encuentro especializándome en desarrollo frontend y backend. 
 También soy técnico en telecomunicaciones, actualmente es en lo que me desempeño la mayor parte del tiempo, estoy en pleno proceso para que esta situacion cambie.
 
 <h3 align="left">Lenguajes y herramientas:</h3>
