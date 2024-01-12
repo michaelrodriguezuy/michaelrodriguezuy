@@ -3,9 +3,15 @@
    
 <p dir="auto">
 
-<a href="https://www.linkedin.com/in/michaelrodriguezuy" rel="nofollow"><img src="https://camo.githubusercontent.com/f805d3593b818286d2dd101be4ef6dc310a2e9b4de4afcb13753f00c52fadd08/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d6c696e6b6564696e26636f6c6f723d306537366138266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="linkedin" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=linkedin&amp;color=0e76a8&amp;logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://discord.gg/michael_uy" rel="nofollow"><img src="https://camo.githubusercontent.com/4ffbd34b6445d74f5cf9cee6d98077cc06a136304fd6e24c993c7dee1b42a4e6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d646973636f726426636f6c6f723d373238396461266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="discord" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=discord&amp;color=7289da&amp;logo=discord&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://github.com/michaelrodriguezuy"><img src="https://camo.githubusercontent.com/50e14c62b10f179472d21c71efe45bd294ddcd6402b1d2ce6125604f8d8f7d8c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d67697468756226636f6c6f723d313731353135266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="github" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=github&amp;color=171515&amp;logo=github&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/michaelrodriguezuy" rel="nofollow">
+<img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" style="max-width: 100%;">
+</a>
+<a href="https://discord.gg/michael_uy" rel="nofollow">
+<img src="https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge" alt="discord" style="max-width: 100%;">
+</a>
+<a href="https://github.com/michaelrodriguezuy">
+<img src="https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge" alt="github" style="max-width: 100%;">
+</a>
 </p>
 
 </article>
@@ -13,8 +19,15 @@
 
 ### Hola 👋
 
-Soy desarrollador de software desde hace mas de 10 años, de la vieja escuela, en pleno proceso de renovación, me encuentro especializándome en desarrollo frontend y backend. 
-También soy técnico en telecomunicaciones, actualmente es en lo que me desempeño la mayor parte del tiempo, estoy en pleno proceso para que esta situacion cambie.
+Hola, soy Michael Rodríguez, un desarrollador de software apasionado con más de 10 años de experiencia. Comencé mi carrera en la vieja escuela, aprendiendo los fundamentos de la programación en lenguajes como VB y Java, recuerdo que mi primer desarrollo fue el juego de la mosqueta en Turbo Pascal. Sin embargo, siempre mantuve la programación en un segundo plano, ya que mi profesión principal es la de técnico en telecomunicaciones.
+
+En los últimos años, he decidido que es hora de que la programación sea mi profesión principal. Por eso, me he embarcado en un proceso de renovación, especializándome en desarrollo frontend y backend.
+
+Estoy constantemente aprendiendo y creciendo como desarrollador, y siempre estoy buscando nuevas oportunidades para aplicar mis habilidades.
+
+Comparto alguno de mis proyectos, del cual me siento muy orgulloso ya que persiste desde hace ya mas de 8 años, en aquel entonces desarrollé dicho proyecto con VB y PostgreSQL, era un software para el control de stock solamente, hoy en día maneja compras y ventas de artículos y servicios, alquiler de equipamiento, y desde hace 2 años se incorporó la facturación electrónica.
+
+Estoy listo para aprovechar mi experiencia en desarrollo de software para contribuir significativamente a proyectos desafiantes.
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
