@@ -19,7 +19,7 @@
 
 ### Hola 👋
 
-Hola, soy Michael Rodríguez, un desarrollador de software apasionado con más de 10 años de experiencia. Comencé mi carrera en la vieja escuela, aprendiendo los fundamentos de la programación en lenguajes como VB y Java, recuerdo que mi primer desarrollo fue el juego de la mosqueta en Turbo Pascal. Sin embargo, siempre mantuve la programación en un segundo plano, ya que mi profesión principal es la de técnico en telecomunicaciones.
+Soy Michael Rodríguez, un desarrollador de software apasionado con más de 10 años de experiencia. Comencé mi carrera en la vieja escuela, aprendiendo los fundamentos de la programación en lenguajes como VB y Java, recuerdo que mi primer desarrollo fue el juego de la mosqueta en Turbo Pascal. Sin embargo, siempre mantuve la programación en un segundo plano, ya que mi profesión principal es la de técnico en telecomunicaciones.
 
 En los últimos años, he decidido que es hora de que la programación sea mi profesión principal. Por eso, me he embarcado en un proceso de renovación, especializándome en desarrollo frontend y backend.
 
