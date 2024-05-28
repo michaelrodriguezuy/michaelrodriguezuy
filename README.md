@@ -19,15 +19,13 @@
 
 ### Hola 👋
 
-Soy Michael Rodríguez, un desarrollador de software apasionado con más de 10 años de experiencia. Comencé mi carrera en la vieja escuela, aprendiendo los fundamentos de la programación en lenguajes como VB y Java, recuerdo que mi primer desarrollo fue el juego de la mosqueta en Turbo Pascal. Sin embargo, siempre mantuve la programación en un segundo plano, ya que mi profesión principal es la de técnico en telecomunicaciones.
+Me considero una persona apasionada por el desarrollo. Comencé en la vieja escuela, hace unos 10 años, aprendiendo los fundamentos de la programación en lenguajes como Visual Basic .NET y , recuerdo mi primer proyecto... el juego de la mosqueta desarrollado en Turbo Pascal . 
+En ese tiempo, mas allá de haber mantenido a la programación en un segundo plano, nunca se apagó la llama, lo que se llevó la mayor parte de mi tiempo fue mi rol como técnico en telecomunicaciones.
 
-En los últimos años, he decidido que es hora de que la programación sea mi profesión principal. Por eso, me he embarcado en un proceso de renovación, especializándome en desarrollo frontend y backend.
+En los últimos años, he decidido que es hora de que el desarrollo sea mi única profesión. Por esto, me he embarcado en un proceso de renovación, especializándome en desarrollo frontend y backend. Constantemente estoy buscando nuevas oportunidades para aplicar mis habilidades. 
+Estoy listo para aprovechar mi experiencia en el desarrollo de software para contribuir significativamente a proyectos desafiantes. 
 
-Estoy constantemente aprendiendo y creciendo como desarrollador, y siempre estoy buscando nuevas oportunidades para aplicar mis habilidades.
-
-Comparto alguno de mis proyectos, del cual me siento muy orgulloso ya que persiste desde hace ya mas de 8 años, en aquel entonces desarrollé dicho proyecto con VB y PostgreSQL, era un software para el control de stock solamente, hoy en día maneja compras y ventas de artículos y servicios, alquiler de equipamiento, y desde hace 2 años se incorporó la facturación electrónica.
-
-Estoy listo para aprovechar mi experiencia en desarrollo de software para contribuir significativamente a proyectos desafiantes.
+Actualmente estoy disponible para proyectos independientes o posiciones remotas.
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
