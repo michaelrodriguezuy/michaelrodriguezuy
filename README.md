@@ -114,8 +114,11 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
 </p>
 
 <p dir="auto">
+
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es"><img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es" alt="michaelrodriguezuy" data-canonical-src="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es" style="max-width: 100%;">
+
+<a href="#" rel="nofollow"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelrodriguezuy" alt="michaelrodriguezuy" title="michaelrodriguezuy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=michaelrodriguezuy" style="max-width: 100%;"> </a>   
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=michaelrodriguezuy&show_icons=true&locale=en&layout=compact">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelrodriguezuy&show_icons=true&locale=en&layout=compact" alt="michaelrodriguezuy" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelrodriguezuy&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"> </a>
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es"><img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es" alt="michaelrodriguezuy" data-canonical-src="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es" style="max-width: 100%;">
-<a href="#" rel="nofollow"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelrodriguezuy" alt="michaelrodriguezuy" title="michaelrodriguezuy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=michaelrodriguezuy" style="max-width: 100%;"> </a>   
 </p>
