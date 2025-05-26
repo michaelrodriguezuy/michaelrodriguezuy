@@ -113,7 +113,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
   </a>
 </p>
 
-<p style="margin-top: 20px;">
+<div style="margin-top: 40px; overflow: auto;">
 
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es"><img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es" alt="michaelrodriguezuy" data-canonical-src="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es" style="max-width: 100%;">
 
@@ -121,4 +121,4 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=michaelrodriguezuy&show_icons=true&locale=en&layout=compact">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelrodriguezuy&show_icons=true&locale=en&layout=compact" alt="michaelrodriguezuy" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelrodriguezuy&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"> </a>
-</p>
+</div>
