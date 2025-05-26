@@ -28,7 +28,7 @@ En los últimos años, decidí dar un giro profesional y convertir el desarrollo
 Hoy estoy en busca de nuevos desafíos donde pueda aplicar mis habilidades, seguir aprendiendo y aportar valor real a proyectos significativos.
 
 Actualmente me encuentro disponible para colaborar en proyectos independientes o asumir posiciones remotas.
-
+<br>
 <h3 align="left">Lenguajes de programación</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -39,7 +39,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
   </a>
   
 </p>
-<br><br>
+<br>
 <h3 align="left">Frontend</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -57,7 +57,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
   </a>
   
 </p>
-<br><br>
+<br>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -67,7 +67,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>
-<br><br>
+<br>
 <h3 align="left">Bases de datos</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -80,7 +80,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
 </p>
-<br><br>
+<br>
 <h3 align="left">DevOps y herramientas</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -102,7 +102,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-<br><br>
+<br>
 <h3 align="left">Testing</h3>
 <p align="left">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
@@ -112,7 +112,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
 </p>
-<br><br>
+<br>
 <hr>
 <br><br>
 <div style="margin-top: 40px; overflow: auto;">
