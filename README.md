@@ -19,13 +19,15 @@
 
 ### Hola 👋
 
-Me considero una persona apasionada por el desarrollo. Comencé en la vieja escuela, hace unos 10 años, aprendiendo los fundamentos de la programación en lenguajes como Visual Basic .NET y , recuerdo mi primer proyecto... el juego de la mosqueta desarrollado en Turbo Pascal . 
-En ese tiempo, mas allá de haber mantenido a la programación en un segundo plano, nunca se apagó la llama, lo que se llevó la mayor parte de mi tiempo fue mi rol como técnico en telecomunicaciones.
+Soy una persona apasionada por el desarrollo de software. Comencé hace más de 10 años, en la “vieja escuela”, aprendiendo los fundamentos de la programación con lenguajes como Visual Basic .NET. Recuerdo muy especialmente mi primer proyecto: el juego de la mosqueta desarrollado en Turbo Pascal.
 
-En los últimos años, he decidido que es hora de que el desarrollo sea mi única profesión. Por esto, me he embarcado en un proceso de renovación, especializándome en desarrollo frontend y backend. Constantemente estoy buscando nuevas oportunidades para aplicar mis habilidades. 
-Estoy listo para aprovechar mi experiencia en el desarrollo de software para contribuir significativamente a proyectos desafiantes. 
+Aunque durante varios años la programación ocupó un segundo plano en mi vida —debido a mi rol principal como técnico en telecomunicaciones—, la pasión por el código nunca desapareció.
 
-Actualmente estoy disponible para proyectos independientes o posiciones remotas.
+En los últimos años, decidí dar un giro profesional y convertir el desarrollo en mi camino principal. Desde entonces, me he dedicado a actualizar y ampliar mis conocimientos, especializándome tanto en frontend como en backend.
+
+Hoy estoy en busca de nuevos desafíos donde pueda aplicar mis habilidades, seguir aprendiendo y aportar valor real a proyectos significativos.
+
+Actualmente me encuentro disponible para colaborar en proyectos independientes o asumir posiciones remotas.
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
