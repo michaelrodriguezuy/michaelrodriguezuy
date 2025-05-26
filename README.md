@@ -112,7 +112,10 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
 </p>
-
+</>
+</>
+</>
+</>
 <p dir="auto">
 
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es"><img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es" alt="michaelrodriguezuy" data-canonical-src="https://github-readme-stats.vercel.app/api?username=michaelrodriguezuy&show_icons=true&locale=es" style="max-width: 100%;">
