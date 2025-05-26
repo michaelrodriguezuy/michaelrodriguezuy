@@ -39,7 +39,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
   </a>
   
 </p>
-
+<br><br>
 <h3 align="left">Frontend</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -57,7 +57,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
   </a>
   
 </p>
-
+<br><br>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -67,7 +67,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>
-
+<br><br>
 <h3 align="left">Bases de datos</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -80,7 +80,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
 </p>
-
+<br><br>
 <h3 align="left">DevOps y herramientas</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -102,7 +102,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-
+<br><br>
 <h3 align="left">Testing</h3>
 <p align="left">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
