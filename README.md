@@ -81,7 +81,7 @@ Actualmente me encuentro disponible para colaborar en proyectos independientes o
   </a>
 </p>
 <br>
-<h3 align="left">DevOps y herramientas</h3>
+<h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
