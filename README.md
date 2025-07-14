@@ -29,7 +29,7 @@ Hoy estoy en busca de nuevos desafíos donde pueda aplicar mis habilidades, segu
 
 Actualmente me encuentro disponible para colaborar en proyectos independientes o asumir posiciones remotas.
 <br>
-<h3 align="left">Lenguajes de programación</h3>
+<h3 align="left">Lenguajes</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
