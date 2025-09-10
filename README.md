@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Hola !<br><br>• Soy desarrollador de software full stack con +10 de experiencia.<br>• He desarrollado soluciones a medida: eCommerce, sistemas de gestión y aplicaciones web para clientes reales.<br>• Me gusta trabajar principalmente con Java, React y PostgreSQL.<br>• Me enfoco en soluciones eficientes y en seguir aprendiendo.<br><br><br>
 
 
-## 🌐 Socials:
+## 🌐 Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/michaelrodriguezuy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michaelrodriguezuy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hola@olimarteam.uy) 
 
 # 💻 Tech Stack:
